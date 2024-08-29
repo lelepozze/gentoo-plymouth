@@ -4,7 +4,7 @@ Description=A gentoo custom Plymouth theme basesd of spinner and spinfinity.
 ModuleName=two-step
 
 [two-step]
-ImageDir=/usr/share/plymouth/themes/spinfinity-mod
+ImageDir=/usr/share/plymouth/themes/spinner-gentoo
 BackgroundStartColor=0x54487aff
 BackgroundEndColor=0x54487aff
 WatermarkHorizontalAlignment=0.5
